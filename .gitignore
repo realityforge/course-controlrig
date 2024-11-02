@@ -71,3 +71,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Files that are fetched from a release to avoid using LFS
+Content/TutorialContent/AlternateMonsterMesh/4LegMonsterSkeletalMesh.uasset
+Content/TutorialContent/AlternateMonsterMesh/backup4Leg.uasset
+Content/TutorialContent/SkeletalMesh/TutorialScorpionMesh.uasset
